@@ -1,0 +1,21 @@
+{
+  "event_name": "client_updated",
+  "widget_id": "GwKnyIlfEW",
+  "user_token": null,
+  "visitor": {
+    "name": "test111",
+    "email": "mail",
+    "phone": "111223344553",
+    "description": "тест тест тест описание для АМО",
+    "number": 24584,
+    "chats_count": 1
+  },
+  "organization": null,
+  "status": {
+    "id": "5",
+    "title": "бронирование оформлено"
+  },
+  "assigned_agent": null,
+  "tags": [],
+  "client_id": "24584"
+}
